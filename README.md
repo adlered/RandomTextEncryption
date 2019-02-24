@@ -1,5 +1,5 @@
-##随机加密算法**  
-##Random Encryption Algorithms  
+# 随机加密算法
+# Random Encryption Algorithms
 ### 简介
 这是一个我也不知道有没有人写过的简单算法  
 假设有四个字符需要加密: abcd  
