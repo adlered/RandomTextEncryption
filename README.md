@@ -15,5 +15,4 @@ The Decoder can decode the characters with Private Key and Text(has been encrypt
 **If u mix and encrypt with base64, md5 and other encryption methods, the effect will be better.**  
   
 ### About
-By Adler  
-Wechat/QQ: 1101635162
+本项目是初学所写，语法较不严谨，欢迎提出Issues
