@@ -12,7 +12,7 @@ Random Encryption Algorithms
 For example, the are four character needs to encrypt: abcd  
 We let each character random exchange with other character and record it(sum private key).  
 The Decoder can decode the characters with Private Key and Text(has been encrypted).  
-**If u mix and encrypt with base64, md5 and other encryption methods, the effect will be better.**  
+**If you mix and encrypt with base64, md5 and other encryption methods, the effect will be better.**  
   
 ### About
 本项目是初学所写，语法较不严谨，欢迎提出Issue！  
